@@ -1,3 +1,5 @@
+# Employee Tracker
+
 This application navigates a user/admin to view all departments, employees/managers, roles as well as updating their titles. 
 
 ## User Story
