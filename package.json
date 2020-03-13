@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeetracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miacab89/employeetracker.git"
+  },
+  "author": "miacabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miacab89/employeetracker/issues"
+  },
+  "homepage": "https://github.com/miacab89/employeetracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+  }
+}
